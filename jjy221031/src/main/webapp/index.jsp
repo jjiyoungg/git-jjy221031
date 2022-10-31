@@ -14,6 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
+<<<<<<< HEAD
 하이!
 <<<<<<< HEAD
 
@@ -27,6 +28,12 @@ jdk
 >>>>>>> refs/heads/main
 
 cha
+=======
+
+주여이와 다겨이가 쓴거 지웠다!
+
+
+>>>>>>> refs/heads/main
 </div>
 </body>
 </html>
