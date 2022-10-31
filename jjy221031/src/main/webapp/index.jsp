@@ -14,8 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-하이!
-안녕하세요
+sㄴ누군가가쓴 하이를 지웠다!
 </div>
 </body>
 </html>
