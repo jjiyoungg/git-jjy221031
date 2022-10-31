@@ -14,7 +14,10 @@
 </head>
 <body>
 <div class="container pt-3">
-sㄴ누군가가쓴 하이를 지웠다!
+
+주여이와 다겨이가 쓴거 지웠다!
+
+
 </div>
 </body>
 </html>
